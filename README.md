@@ -1,0 +1,1 @@
+# Image_Recognition_applied_to_Waste_Classification
